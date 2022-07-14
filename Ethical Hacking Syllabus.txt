@@ -1,0 +1,139 @@
+
+ Ethical Hacking Tutorials :
+ ============================
+
+ *** Ethical Hacking *** :
+     ```````````````
+  1. Ethical Hacking Tutorial open link
+  2. Ethical Hacking
+  3. Types of Hackers
+  4. Famous Hackers
+  5. Environmental setup
+
+ *** Network Penetration *** :
+     ```````````````````
+  1. Network Penetration Testing
+  2. Basic of Network
+
+ *** Pre-connection Attacks *** :
+     ``````````````````````
+  1. Pre-connection Attacks
+  2. Wireless Interface in Monitor mode
+  3. About airodump-ng
+  4. Run airodump-ng
+  5. Deauthenticate
+
+ *** Network Device Access *** :
+     `````````````````````
+  1. Gaining Access
+  2. WEP Introduction
+  3. WEP Cracking
+  4. Fake Authentication Attack
+  5. ARP Request Replay Attack
+  6. WPA Theory
+  7. Handshake Theory
+  8. Capturing Handshakes
+  9. Creating Wordlist
+ 10. Cracking Wordlist
+ 11. Securing Network from Attacks
+
+ *** Post Attacks *** :
+     ````````````
+  1. Post-Connection Attacks
+  2. Netdiscover
+  3. Zenmap
+
+ *** MITM Attacks *** :
+     ````````````
+  1. MITM Attacks
+  2. ARP spoofing using arpspoof
+  3. ARP spoofing using MITMf
+  4. Bypassing HTTPS
+  5. DNS Spoofing
+
+ *** Computer Access *** :
+     ```````````````
+  1. Gaining Access Intro
+
+ *** Server-side Attacks *** :
+     ```````````````````
+  1. Server-side Attacks
+  2. Server-side Attack Basics
+  3. Attacks - Metasploit basics
+  4. Exploiting a Code Execution Vulnerability
+  5. Installing MSFC
+  6. MSFC Scan
+  7. MSFC Analysis
+  8. Installing Nexpose
+  9. Nexpose Scanning
+ 10. Nexpose Analysis
+
+ *** Client-side Attacks *** :
+     ```````````````````
+  1. Client-side attacks
+  2. Installing Veil
+  3. Overview of Payloads
+  4. Generating a Veil Backdoor
+  5. Listening for Connections
+  6. Testing the Backdoor
+  7. Fake bdm1 Update
+  8. Protecting Against Delivery Methods
+
+ *** Post Exploitation *** :
+     `````````````````
+  1. Introduction
+  2. Meterpreter
+  3. Filesystem Commands
+  4. Methods to Maintain access
+
+ *** Website Penetration *** :
+     ```````````````````
+  1. What is a Website?
+  2. Attacking a Website
+  3. Information Gathering
+  4. Whois Lookup
+  5. Netcraft
+  6. Robtex
+  7. Discovering Subdomain
+  8. Analysing Discovering Files
+
+ *** Misc *** :
+     ````
+  1. What Problem Hacking Identify
+  2. Hacking Process
+  3. Importance of Ethical hacking
+  4. Miscellaneous Hackers
+  5. Clients and Servers
+  6. Password Cracking
+  7. Penetration testing
+  8. Routers and Firewall
+  9. Vulnerability Assessment vs Penetration Testing
+ 10. Cross-site Scripting
+ 11. Defend against Password Cracking
+ 12. Magecart attack
+ 13. Nexpose
+ 14. Post Exploitation Concept
+ 15. Website vs Webpage
+ 16. Meterpreter
+ 17. MITM Attack Progression
+ 18. Prevention of MITM Attack
+ 19. Usages and Tips
+ 20. Simple WEP Crack
+ 21. Methods of attacking DNS spoofing attack
+ 22. Metasploit commands
+ 23. Metasploit Interface
+ 24. How to prevent DNS cache poisoning and spoofing
+ 25. Risk of DNS spoofing and Poisoning
+ 26. Basic Msfconsole commands
+ 27. Configuring event payloads
+ 28. Examples of Payload targeting
+ 29. History of Handshake
+ 30. What is Listening Port
+ 31. What is Robtex used for
+ 32. Subdomain Discovery
+ 33. Subdomain scanner tools
+ 34. Handshaking Lemma
+ 35. How to build a website
+ 36. Nmap
+ 37. Nmap vs Metasploit
+ 38. Virtual Box
