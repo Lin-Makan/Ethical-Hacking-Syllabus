@@ -1,0 +1,123 @@
+ ***** Data Mining Syllabus ***** :
+       ====================
+ 
+  1. Data Mining
+  2. Data Mining Tutorial 
+  3. Data Mining Techniques open link
+  4. Implementation Process
+  5. Data Mining Architecture
+  6. Data Mining KDD Process
+  7. Data Mining History
+  8. Data Mining Tools
+  9. Data Mining vs Machine Learning
+ 10. Facebook Data Mining
+ 11. Social Media Data Mining Methods
+ 12. Data Mining Cluster Analysis
+ 13. Text Data Mining
+ 14. Bagging vs Boosting
+ 15. Data Mining vs Data Warehousing
+ 16. Social Media Data Mining
+ 17. Data Mining Bayesian Classification
+ 18. Data Mining World Wide Web
+ 19. Different types of Clustering Algorithm
+ 20. Bitcoin Data Mining
+ 21. Orange Data Mining
+ 22. Data Mining vs Big Data
+ 23. Decision Tree Induction
+ 24. Educational Data Mining
+ 25. Data Mining in Healthcare
+ 26. Apriori Algorithm
+ 27. Data Integration in Data Mining
+ 28. Data mining vs Text mining
+ 29. Discretization in data mining
+ 30. Redundancy and Correlation in Data Mining
+ 31. Classification of Data Mining Systems
+ 32. Data Mining Models
+ 33. Data mining vs Data Science 
+ 34. Data Mining vs Statistics
+ 35. Data Mining vs Web Mining
+ 36. Data Mining vs Data Analysis
+ 37. Business Intelligence vs Data Mining
+ 38. Data Mining vs Data Visualization
+ 39. Data Mining vs Data Analytics
+ 40. Types of Data Mining
+ 41. Data Profiling vs Data Mining
+ 42. Predictive Analytics vs Data Mining
+ 43. Data Mining vs OLAP
+ 44. Descriptive vs Predictive Data Mining
+ 45. Spatial vs Temporal Data Mining
+ 46. classification vs clustering
+ 47. Hierarchical clustering in data mining
+ 48. Density-based clustering in data mining
+ 49. Aggregation in data mining
+ 50. Regression in data mining
+ 51. What is Outlier in data mining
+ 52. Data Cleaning in Data Mining
+ 53. Data Processing in Data Mining
+ 54. Classification and Predication in Data Mining
+ 55. Data Mining Task Primitives
+ 56. Web Content vs Web Structure vs Web Usage Mining
+ 57. What is Binning in Data Mining 
+ 58. KDD vs Data Mining
+ 59. What is Noise in Data Mining
+ 60. BIRCH in Data Mining
+ 61. Stemming in Data Mining
+ 62. Feature Transformation in Data Mining
+ 63. Visual and Audio Data Mining
+ 64. Class Comparison Methods in Data Mining
+ 65. Data Selection in Data Mining
+ 66. Tasks and Functionalities of Data Mining
+ 67. Ubiquitous and Invisible Data Mining
+ 68. Entity Identification Problem in Data Mining
+ 69. Numerosity Reduction in Data Mining
+ 70. Market Basket Analysis in Data Mining
+ 71. What is Multimedia Data Mining
+ 72. Correlation Analysis in Data Mining
+ 73. Data Mining Services
+ 74. Trends in Data Mining
+ 75. Data Harvesting vs Data Mining
+ 76. Data Mining vs Artificial Intelligence
+ 77. Data Mining vs Data Exploration
+ 78. Data Mining vs Process Mining
+ 79. Web Scraping vs Data Mining
+ 80. Data Wrangling
+ 81. What is Boosting in Data Mining
+ 82. What is Forecasting in Data Mining
+ 83. What is CRISP in Data Mining
+ 84. MCQ
+ 85. Data Mining MCQ
+
+ 86. Main Purpose of Data Mining :
+ 87. Data Mining can be applied to any Type of Data :
+          (A)  Data Warehouses
+          (B)  Transactional Databases
+          (C)  Relational Databases
+          (D)  Multimedia Databases
+          (E)  Spatial Databases
+          (F)  Time-series Databases
+          (G)  World Wide Web
+  
+ 88. Data Mining Process Consists of Three Main Phases :
+         1. Data Pre-processing
+         2. Data Extraction
+         3. Data Evaluation and Presentation
+ 
+ 89. Applications of Data Mining :
+          (A) Financial Analysis
+          (B) Biological Analysis
+          (C) Scientific Analysis
+          (D) Intrusion Detection
+          (E) Fraud Detection
+          (F) Research Analysis
+          (G) Business Intelligence
+          (H) Web search
+          (I) Bioinformatics
+          (J) Health Informatics
+          (K) Finance
+          (L) Digital Libraries
+          (M) Digital Governments
+  
+ 90. Real-life examples of Data Mining :
+           (A) Market Basket Analysis:
+           (B) Protein Folding:
+           (C) Fraud Detection:
