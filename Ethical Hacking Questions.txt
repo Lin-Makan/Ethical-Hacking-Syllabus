@@ -1,0 +1,4569 @@
+
+
+ Ethical Hacking Questions :
+ ============================
+
+ *** Ethical Hacking *** :
+     ```````````````
+  1. Ethical Hacking Tutorial open link
+  2. Ethical Hacking
+  3. Types of Hackers
+  4. Famous Hackers
+  5. Environmental setup
+
+ 1. <<<<<<<<< Ethical Hacking Tutorial open link >>>>>>>>>
+__________________________________________________
+     Ethical Hacking Tutorial open link           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Ethical Hacking Tutorial open link
+                                                                                        
+2) Definition of Ethical Hacking Tutorial open link ?
+-----------------------------------------------------
+*
+ 
+3) What is Ethical Hacking Tutorial open link About ?
+-----------------------------------------------------
+*
+*
+
+4) What does Ethical Hacking Tutorial open link Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Ethical Hacking Tutorial open link :
+--------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Ethical Hacking Tutorial open link :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Ethical Hacking Tutorial open link :
+---------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Ethical Hacking >>>>>>>>>
+__________________________________________________
+     Ethical Hacking                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Ethical Hacking
+                                                                                        
+2) Definition of Ethical Hacking ?
+----------------------------------
+*
+ 
+3) What is Ethical Hacking About ?
+----------------------------------
+*
+*
+
+4) What Ethical Hacking Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Ethical Hacking :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Ethical Hacking :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Ethical Hacking :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< Types of Hackers >>>>>>>>>
+__________________________________________________
+     Types of Hackers                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Types of Hackers
+                                                                                        
+2) Definition of Types of Hackers ?
+-----------------------------------
+*
+ 
+3) What is Types of Hackers About ?
+-----------------------------------
+*
+*
+
+4) What does Types of Hackers Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Types of Hackers :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Types of Hackers :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Types of Hackers :
+---------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< Famous Hackers >>>>>>>>>
+__________________________________________________
+     Famous Hackers                               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Famous Hackers
+                                                                                        
+2) Definition of Famous Hackers ?
+---------------------------------
+*
+ 
+3) What is Famous Hackers About ?
+---------------------------------
+*
+*
+
+4) What does Famous Hackers Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Famous Hackers :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Famous Hackers :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Famous Hackers :
+-------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 5. <<<<<<<<< Environmental setup >>>>>>>>>
+__________________________________________________
+      Environmental setup                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Environmental setup
+                                                                                        
+2) Definition of Environmental setup ?
+--------------------------------------
+*
+ 
+3) What is Environmental setup About ?
+--------------------------------------
+*
+*
+
+4) What does Environmental setup Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Environmental setup :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Environmental setup :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Environmental setup :
+------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ *** Network Penetration *** :
+     ```````````````````
+  1. Network Penetration Testing
+  2. Basic of Network
+
+ 1. <<<<<<<<< Network Penetration Testing >>>>>>>>>
+__________________________________________________
+       Network Penetration Testing                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Network Penetration Testing
+                                                                                        
+2) Definition of Network Penetration Testing ?
+----------------------------------------------
+*
+ 
+3) What is Network Penetration Testing About ?
+----------------------------------------------
+*
+*
+
+4) What does Network Penetration Testing Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Network Penetration Testing :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Network Penetration Testing :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Network Penetration Testing :
+--------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Basic of Network >>>>>>>>>
+__________________________________________________
+     Basic of Network                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Basic of Network
+                                                                                        
+2) Definition of Basic of Network ?
+-----------------------------------
+*
+ 
+3) What is Basic of Network About ?
+-----------------------------------
+*
+*
+
+4) What does Basic of Network Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Basic of Network :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Basic of Network :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Basic of Network :
+---------------------------------
+*
+*
+_________________________________________________________________________________
+
+ *** Pre-connection Attacks *** :
+     ``````````````````````
+  1. Pre-connection Attacks
+  2. Wireless Interface in Monitor mode
+  3. About airodump-ng
+  4. Run airodump-ng
+  5. Deauthenticate
+
+ 1. <<<<<<<<< Pre-connection Attacks >>>>>>>>>
+__________________________________________________
+      Pre-connection Attacks                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Pre-connection Attacks
+                                                                                        
+2) Definition of Pre-connection Attacks ?
+-----------------------------------------
+*
+ 
+3) What is Pre-connection Attacks About ?
+-----------------------------------------
+*
+*
+
+4) What does Pre-connection Attacks Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Pre-connection Attacks :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Pre-connection Attacks :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Pre-connection Attacks :
+---------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Wireless Interface in Monitor mode >>>>>>>>>
+__________________________________________________
+     Wireless Interface in Monitor mode           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Wireless Interface in Monitor mode
+                                                                                        
+2) Definition of Wireless Interface in Monitor mode ?
+-----------------------------------------------------
+*
+ 
+3) What is Wireless Interface in Monitor mode About ?
+-----------------------------------------------------
+*
+*
+
+4) What does Wireless Interface in Monitor mode Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Wireless Interface in Monitor mode :
+--------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Wireless Interface in Monitor mode :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Wireless Interface in Monitor mode :
+---------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< About airodump-ng >>>>>>>>>
+__________________________________________________
+     About airodump-ng                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* About airodump-ng
+                                                                                        
+2) Definition of About airodump-ng ?
+------------------------------------
+*
+ 
+3) What is About airodump-ng About ?
+------------------------------------
+*
+*
+
+4) What does About airodump-ng Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of About airodump-ng :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of About airodump-ng :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of About airodump-ng :
+----------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< Run airodump-ng >>>>>>>>>
+__________________________________________________
+     Run airodump-ng                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Run airodump-ng
+                                                                                        
+2) Definition of Run airodump-ng ?
+----------------------------------
+*
+ 
+3) What is Run airodump-ng About ?
+----------------------------------
+*
+*
+
+4) What does Run airodump-ng Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Run airodump-ng :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Run airodump-ng :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Run airodump-ng :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 5. <<<<<<<<< Deauthenticate >>>>>>>>>
+__________________________________________________
+      Deauthenticate                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Deauthenticate
+                                                                                        
+2) Definition of Deauthenticate ?
+---------------------------------
+*
+ 
+3) What is Deauthenticate About ?
+---------------------------------
+*
+*
+
+4) What does Deauthenticate Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Deauthenticate :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Deauthenticate :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Deauthenticate :
+-------------------------------
+*
+*
+_________________________________________________________________________________
+
+ *** Network Device Access *** :
+     `````````````````````
+  1. Gaining Access
+  2. WEP Introduction
+  3. WEP Cracking
+  4. Fake Authentication Attack
+  5. ARP Request Replay Attack
+  6. WPA Theory
+  7. Handshake Theory
+  8. Capturing Handshakes
+  9. Creating Wordlist
+ 10. Cracking Wordlist
+ 11. Securing Network from Attacks
+
+  <<<<<<<<< Network Device Access >>>>>>>>>
+__________________________________________________
+    Network Device Access                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Network Device Access
+                                                                                        
+2) Definition of Network Device Access ?
+----------------------------------------
+*
+ 
+3) What is Network Device Access About ?
+----------------------------------------
+*
+*
+
+4) What does Network Device Access Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Network Device Access :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Network Device Access :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Network Device Access :
+--------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 1. <<<<<<<<< Gaining Access >>>>>>>>>  
+__________________________________________________
+       Gaining Access                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Gaining Access
+                                                                                        
+2) Definition of Gaining Access ?
+---------------------------------
+*
+ 
+3) What is Gaining Access About ?
+---------------------------------
+*
+*
+
+4) What does Gaining Access Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Gaining Access :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Gaining Access :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Gaining Access :
+-------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< WEP Introduction >>>>>>>>>
+__________________________________________________
+     WEP Introduction                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* WEP Introduction
+                                                                                        
+2) Definition of WEP Introduction ?
+-----------------------------------
+*
+ 
+3) What is WEP Introduction About ?
+-----------------------------------
+*
+*
+
+4) What does WEP Introduction Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of WEP Introduction :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of WEP Introduction :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of WEP Introduction :
+---------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< WEP Cracking >>>>>>>>>
+__________________________________________________
+     WEP Cracking                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* WEP Cracking
+                                                                                        
+2) Definition of WEP Cracking ?
+-------------------------------
+*
+ 
+3) What is WEP Cracking About ?
+-------------------------------
+*
+*
+
+4) What does WEP Cracking Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of WEP Cracking :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of WEP Cracking :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of WEP Cracking :
+-----------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< Fake Authentication Attack >>>>>>>>>
+__________________________________________________
+     Fake Authentication Attack                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Fake Authentication Attack
+                                                                                        
+2) Definition of Fake Authentication Attack ?
+---------------------------------------------
+*
+ 
+3) What is Fake Authentication Attack About ?
+---------------------------------------------
+*
+*
+
+4) What does Fake Authentication Attack Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Fake Authentication Attack :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fake Authentication Attack :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Fake Authentication Attack :
+-------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 5. <<<<<<<<< ARP Request Replay Attack >>>>>>>>>
+__________________________________________________
+     ARP Request Replay Attack                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* ARP Request Replay Attack
+                                                                                        
+2) Definition of ARP Request Replay Attack ?
+--------------------------------------------
+*
+ 
+3) What is ARP Request Replay Attack About ?
+--------------------------------------------
+*
+*
+
+4) What does ARP Request Replay Attack Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of ARP Request Replay Attack :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of ARP Request Replay Attack :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of ARP Request Replay Attack :
+------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 6. <<<<<<<<< WPA Theory >>>>>>>>>
+__________________________________________________
+      WPA Theory                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* WPA Theory
+                                                                                        
+2) Definition of WPA Theory ?
+-----------------------------
+*
+ 
+3) What is WPA Theory About ?
+-----------------------------
+*
+*
+
+4) What does WPA Theory Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of WPA Theory :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of WPA Theory :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of WPA Theory :
+---------------------------
+*
+*
+_______________________________________________________________________________
+
+ 7. <<<<<<<<< Handshake Theory >>>>>>>>>
+__________________________________________________
+     Handshake Theory                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Handshake Theory
+                                                                                        
+2) Definition of Handshake Theory ?
+-----------------------------------
+*
+ 
+3) What is Handshake Theory About ?
+-----------------------------------
+*
+*
+
+4) What does Handshake Theory Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Handshake Theory :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Handshake Theory :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Handshake Theory :
+---------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 8. <<<<<<<<< Capturing Handshakes >>>>>>>>>
+__________________________________________________
+    Capturing Handshakes                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Capturing Handshakes
+                                                                                        
+2) Definition of Capturing Handshakes ?
+---------------------------------------
+*
+ 
+3) What is Capturing Handshakes About ?
+---------------------------------------
+*
+*
+
+4) What does Capturing Handshakes Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Capturing Handshakes :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Capturing Handshakes :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Capturing Handshakes :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 9. <<<<<<<<< Creating Wordlist >>>>>>>>>
+__________________________________________________
+     Creating Wordlist                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Creating Wordlist
+                                                                                        
+2) Definition of Creating Wordlist ?
+------------------------------------
+*
+ 
+3) What is Creating Wordlist About ?
+------------------------------------
+*
+*
+
+4) What does Creating Wordlist Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Creating Wordlist :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Creating Wordlist :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Creating Wordlist :
+----------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 10. <<<<<<<<< Cracking Wordlist >>>>>>>>>
+__________________________________________________
+      Cracking Wordlist                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Cracking Wordlist
+                                                                                        
+2) Definition of Cracking Wordlist ?
+------------------------------------
+*
+ 
+3) What is Cracking Wordlist About ?
+------------------------------------
+*
+*
+
+4) What does Cracking Wordlist Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Cracking Wordlist :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Cracking Wordlist :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Cracking Wordlist :
+----------------------------------
+*
+*
+__________________________________________________________________________________
+        
+ 11. <<<<<<<<< Securing Network from Attacks >>>>>>>>>
+__________________________________________________
+       Securing Network from Attacks              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Securing Network from Attacks
+                                                                                        
+2) Definition of Securing Network from Attacks ?
+------------------------------------------------
+*
+ 
+3) What is Securing Network from Attacks About ?
+------------------------------------------------
+*
+*
+
+4) What does Securing Network from Attacks Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Securing Network from Attacks :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Securing Network from Attacks :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Securing Network from Attacks :
+----------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ *** Post Attacks *** :
+     ````````````
+  1. Post-Connection Attacks
+  2. Netdiscover
+  3. Zenmap
+
+ 1. <<<<<<<<< Post-Connection Attacks >>>>>>>>>
+__________________________________________________
+     Post-Connection Attacks                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Post-Connection Attacks
+                                                                                        
+2) Definition of Post-Connection Attacks ?
+------------------------------------------
+*
+ 
+3) What is Post-Connection Attacks About ?
+------------------------------------------
+*
+*
+
+4) What does Post-Connection Attacks Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Post-Connection Attacks :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Post-Connection Attacks :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Post-Connection Attacks :
+----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Netdiscover >>>>>>>>>
+__________________________________________________
+     Netdiscover                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Netdiscover
+                                                                                        
+2) Definition of Netdiscover ?
+------------------------------
+*
+ 
+3) What is Netdiscover About ?
+------------------------------
+*
+*
+
+4) What does Netdiscover Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Netdiscover :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Netdiscover :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Netdiscover :
+----------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< Zenmap >>>>>>>>>
+__________________________________________________
+     Zenmap                                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Zenmap
+                                                                                        
+2) Definition of Zenmap ?
+-----------------------
+*
+ 
+3) What is Zenmap About ?
+-------------------------
+*
+*
+
+4) What does Zenmap Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of Zenmap :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Zenmap :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of Zenmap :
+-----------------------
+*
+*
+_________________________________________________________________________________
+
+ *** MITM Attacks *** :
+     ````````````
+  1. MITM Attacks
+  2. ARP spoofing using arpspoof
+  3. ARP spoofing using MITMf
+  4. Bypassing HTTPS
+  5. DNS Spoofing
+
+ 1. <<<<<<<<< MITM Attacks >>>>>>>>>
+__________________________________________________
+      MITM Attacks                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* MITM Attacks
+                                                                                        
+2) Definition of MITM Attacks ?
+-------------------------------
+*
+ 
+3) What is MITM Attacks About ?
+-------------------------------
+*
+*
+
+4) What does MITM Attacks Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of MITM Attacks :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of MITM Attacks :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of MITM Attacks :
+-----------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< ARP spoofing using arpspoof >>>>>>>>>
+__________________________________________________
+    ARP spoofing using arpspoof                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* ARP spoofing using arpspoof
+                                                                                        
+2) Definition of ARP spoofing using arpspoof ?
+----------------------------------------------
+*
+ 
+3) What is ARP spoofing using arpspoof About ?
+----------------------------------------------
+*
+*
+
+4) What does ARP spoofing using arpspoof Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of ARP spoofing using arpspoof :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of ARP spoofing using arpspoof :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of ARP spoofing using arpspoof :
+--------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< ARP spoofing using MITMf >>>>>>>>>
+__________________________________________________
+    ARP spoofing using MITMf                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* ARP spoofing using MITMf
+                                                                                        
+2) Definition of ARP spoofing using MITMf ?
+-------------------------------------------
+*
+ 
+3) What is ARP spoofing using MITMf About ?
+-------------------------------------------
+*
+*
+
+4) What does ARP spoofing using MITMf Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of ARP spoofing using MITMf :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of ARP spoofing using MITMf :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of ARP spoofing using MITMf :
+-----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< Bypassing HTTPS >>>>>>>>>
+__________________________________________________
+     Bypassing HTTPS                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Bypassing HTTPS
+                                                                                        
+2) Definition of Bypassing HTTPS ?
+----------------------------------
+*
+ 
+3) What is Bypassing HTTPS About ?
+----------------------------------
+*
+*
+
+4) What does Bypassing HTTPS Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Bypassing HTTPS :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Bypassing HTTPS :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Bypassing HTTPS :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 5. <<<<<<<<< DNS Spoofing >>>>>>>>>
+__________________________________________________
+      DNS Spoofing                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* DNS Spoofing
+                                                                                        
+2) Definition of DNS Spoofing ?
+-------------------------------
+*
+ 
+3) What is DNS Spoofing About ?
+-------------------------------
+*
+*
+
+4) What does DNS Spoofing Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of DNS Spoofing :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of DNS Spoofing :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of DNS Spoofing :
+-----------------------------
+*
+*
+_________________________________________________________________________________
+
+ *** Computer Access *** :
+     ````````````````
+ <<<<<<<<< Computer Access >>>>>>>>>
+__________________________________________________
+     Computer Access                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Computer Access
+                                                                                        
+2) Definition of Computer Access ?
+----------------------------------
+*
+ 
+3) What is Computer Access About ?
+----------------------------------
+*
+*
+
+4) What does Computer Access Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Computer Access :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Computer Access :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Computer Access :
+--------------------------------
+*
+*
+_________________________________________________________________________________
+
+  1. Gaining Access Intro
+
+ 1. <<<<<<<<< Gaining Access Intro >>>>>>>>>
+__________________________________________________
+     Gaining Access Intro                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Gaining Access Intro
+                                                                                        
+2) Definition of Gaining Access Intro ?
+---------------------------------------
+*
+ 
+3) What is Gaining Access Intro About ?
+---------------------------------------
+*
+*
+
+4) What does Gaining Access Intro Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Gaining Access Intro :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Gaining Access Intro :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Gaining Access Intro :
+-------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ *** Server-side Attacks *** :
+     ```````````````````
+  1. Server-side Attacks
+  2. Server-side Attack Basics
+  3. Attacks - Metasploit basics
+  4. Exploiting a Code Execution Vulnerability
+  5. Installing MSFC
+  6. MSFC Scan
+  7. MSFC Analysis
+  8. Installing Nexpose
+  9. Nexpose Scanning
+ 10. Nexpose Analysis
+
+1. <<<<<<<<< Server-side Attacks >>>>>>>>>
+__________________________________________________
+      Server-side Attacks                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Server-side Attacks
+                                                                                        
+2) Definition of Server-side Attacks ?
+--------------------------------------
+*
+ 
+3) What is Server-side Attacks About ?
+--------------------------------------
+*
+*
+
+4) What does Server-side Attacks Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Server-side Attacks :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Server-side Attacks :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Server-side Attacks :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Server-side Attack Basics >>>>>>>>>
+__________________________________________________
+     Server-side Attack Basics                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Server-side Attack Basics
+                                                                                        
+2) Definition of Server-side Attack Basics ?
+--------------------------------------------
+*
+ 
+3) What is Server-side Attack Basics About ?
+--------------------------------------------
+*
+*
+
+4) What does Server-side Attack Basics Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Server-side Attack Basics :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Server-side Attack Basics :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Server-side Attack Basics :
+------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< Attacks - Metasploit basics >>>>>>>>>
+__________________________________________________
+     Attacks - Metasploit basics                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Attacks - Metasploit basics
+                                                                                        
+2) Definition of Attacks - Metasploit basics ?
+----------------------------------------------
+*
+ 
+3) What is Attacks - Metasploit basics About ?
+----------------------------------------------
+*
+*
+
+4) What does Attacks - Metasploit basics Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Attacks - Metasploit basics :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Attacks - Metasploit basics :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Attacks - Metasploit basics :
+--------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< Exploiting a Code Execution Vulnerability >>>>>>>>>
+__________________________________________________
+    Exploiting a Code Execution Vulnerability     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Exploiting a Code Execution Vulnerability
+                                                                                        
+2) Definition of Exploiting a Code Execution Vulnerability ?
+------------------------------------------------------------
+*
+ 
+3) What is Exploiting a Code Execution Vulnerability About ?
+------------------------------------------------------------
+*
+*
+
+4) What does Exploiting a Code Execution Vulnerability Do ?
+-----------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Exploiting a Code Execution Vulnerability :
+---------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Exploiting a Code Execution Vulnerability :
+------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Exploiting a Code Execution Vulnerability :
+----------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 5. <<<<<<<<< Installing MSFC >>>>>>>>>
+__________________________________________________
+     Installing MSFC                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Installing MSFC
+                                                                                        
+2) Definition of Installing MSFC ?
+----------------------------------
+*
+ 
+3) What is Installing MSFC About ?
+----------------------------------
+*
+*
+
+4) What does Installing MSFC Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Installing MSFC :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Installing MSFC :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Installing MSFC :
+--------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 6. <<<<<<<<< MSFC Scan >>>>>>>>>
+__________________________________________________
+       MSFC Scan                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* MSFC Scan
+                                                                                        
+2) Definition of MSFC Scan ?
+----------------------------
+*
+ 
+3) What is MSFC Scan About ?
+----------------------------
+*
+*
+
+4) What does MSFC Scan Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of MSFC Scan :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of MSFC Scan :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of MSFC Scan :
+--------------------------
+*
+*
+_______________________________________________________________________________
+
+ 7. <<<<<<<<< MSFC Analysis >>>>>>>>>
+__________________________________________________
+     MSFC Analysis                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* MSFC Analysis
+                                                                                        
+2) Definition of MSFC Analysis ?
+--------------------------------
+*
+ 
+3) What is MSFC Analysis About ?
+--------------------------------
+*
+*
+
+4) What does MSFC Analysis Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of MSFC Analysis :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of MSFC Analysis :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of MSFC Analysis :
+------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 8. <<<<<<<<< Installing Nexpose >>>>>>>>>
+__________________________________________________
+     Installing Nexpose                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Installing Nexpose
+                                                                                        
+2) Definition of Installing Nexpose ?
+-------------------------------------
+*
+ 
+3) What is Installing Nexpose About ?
+-------------------------------------
+*
+*
+
+4) What does Installing Nexpose Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Installing Nexpose :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Installing Nexpose :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Installing Nexpose :
+-----------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 9. <<<<<<<<< Nexpose Scanning >>>>>>>>>
+__________________________________________________
+    Nexpose Scanning                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Nexpose Scanning
+                                                                                        
+2) Definition of Nexpose Scanning ?
+-----------------------------------
+*
+ 
+3) What is Nexpose Scanning About ?
+-----------------------------------
+*
+*
+
+4) What does Nexpose Scanning Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Nexpose Scanning :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Nexpose Scanning :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Nexpose Scanning :
+---------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 10. <<<<<<<<< Nexpose Analysis >>>>>>>>>
+__________________________________________________
+     Nexpose Analysis                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Nexpose Analysis
+                                                                                        
+2) Definition of Nexpose Analysis ?
+-----------------------------------
+*
+ 
+3) What is Nexpose Analysis About ?
+-----------------------------------
+*
+*
+
+4) What does Nexpose Analysis Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Nexpose Analysis :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Nexpose Analysis :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Nexpose Analysis :
+---------------------------------
+*
+*
+__________________________________________________________________________________
+
+ *** Client-side Attacks *** :
+     ```````````````````
+  1. Client-side attacks
+  2. Installing Veil
+  3. Overview of Payloads
+  4. Generating a Veil Backdoor
+  5. Listening for Connections
+  6. Testing the Backdoor
+  7. Fake bdm1 Update
+  8. Protecting Against Delivery Methods
+
+ 1. <<<<<<<<< Client-side attacks >>>>>>>>>
+__________________________________________________
+      Client-side attacks                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Client-side attacks
+                                                                                        
+2) Definition of Client-side attacks ?
+--------------------------------------
+*
+ 
+3) What is Client-side attacks About ?
+--------------------------------------
+*
+*
+
+4) What does Client-side attacks Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Client-side attacks :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Client-side attacks :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Client-side attacks :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Installing Veil >>>>>>>>>
+__________________________________________________
+     Installing Veil                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Installing Veil
+                                                                                        
+2) Definition of Installing Veil ?
+----------------------------------
+*
+ 
+3) What is Installing Veil About ?
+----------------------------------
+*
+*
+
+4) What does Installing Veil Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Installing Veil :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Installing Veil :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Installing Veil :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< Overview of Payloads >>>>>>>>>
+__________________________________________________
+     Overview of Payloads                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Overview of Payloads
+                                                                                        
+2) Definition of Overview of Payloads ?
+---------------------------------------
+*
+ 
+3) What is Overview of Payloads About ?
+---------------------------------------
+*
+*
+
+4) What does Overview of Payloads Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Overview of Payloads :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Overview of Payloads :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Overview of Payloads :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< Generating a Veil Backdoor >>>>>>>>>
+__________________________________________________
+     Generating a Veil Backdoor                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Generating a Veil Backdoor
+                                                                                        
+2) Definition of Generating a Veil Backdoor ?
+---------------------------------------------
+*
+ 
+3) What is Generating a Veil Backdoor About ?
+---------------------------------------------
+*
+*
+
+4) What does Generating a Veil Backdoor Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Generating a Veil Backdoor :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Generating a Veil Backdoor :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Generating a Veil Backdoor :
+-------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 5. <<<<<<<<< Listening for Connections >>>>>>>>>
+__________________________________________________
+      Listening for Connections                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Listening for Connections
+                                                                                        
+2) Definition of Listening for Connections ?
+--------------------------------------------
+*
+ 
+3) What is Listening for Connections About ?
+--------------------------------------------
+*
+*
+
+4) What does Listening for Connections Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Listening for Connections :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Listening for Connections :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Listening for Connections :
+------------------------------------------
+*
+*
+_______________________________________________________________________
+
+ 6. <<<<<<<<< Testing the Backdoor >>>>>>>>>
+__________________________________________________
+       Testing the Backdoor                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Testing the Backdoor
+                                                                                        
+2) Definition of Testing the Backdoor ?
+---------------------------------------
+*
+ 
+3) What is Testing the Backdoor About ?
+---------------------------------------
+*
+*
+
+4) What does Testing the Backdoor Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Testing the Backdoor :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Testing the Backdoor :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Testing the Backdoor :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 7. <<<<<<<<< Fake bdm1 Update >>>>>>>>>
+__________________________________________________
+     Fake bdm1 Update                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Fake bdm1 Update
+                                                                                        
+2) Definition of Fake bdm1 Update ?
+-----------------------------------
+*
+ 
+3) What is Fake bdm1 Update About ?
+------------------------------------
+*
+*
+
+4) What does Fake bdm1 Update Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Fake bdm1 Update :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fake bdm1 Update :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Fake bdm1 Update :
+---------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 8. <<<<<<<<< Protecting Against Delivery Methods >>>>>>>>>
+__________________________________________________
+     Protecting Against Delivery Methods          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Protecting Against Delivery Methods
+                                                                                        
+2) Definition of Protecting Against Delivery Methods ?
+------------------------------------------------------
+*
+ 
+3) What is Protecting Against Delivery Methods About ?
+------------------------------------------------------
+*
+*
+
+4) What does Protecting Against Delivery Methods Do ?
+-----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Protecting Against Delivery Methods :
+---------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Protecting Against Delivery Methods :
+------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Protecting Against Delivery Methods :
+----------------------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ *** Post Exploitation *** :
+     `````````````````
+  1. Introduction
+  2. Meterpreter
+  3. Filesystem Commands
+  4. Methods to Maintain access
+
+ 1. <<<<<<<<< Introduction >>>>>>>>>
+__________________________________________________
+        Introduction                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Introduction
+                                                                                        
+2) Definition of Introduction ?
+-------------------------------
+*
+ 
+3) What is Introduction About ?
+-------------------------------
+*
+*
+
+4) What does Introduction Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Introduction :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Introduction :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Introduction :
+-----------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Meterpreter >>>>>>>>>
+__________________________________________________
+     Meterpreter                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Meterpreter
+                                                                                        
+2) Definition of Meterpreter ?
+------------------------------
+*
+ 
+3) What is Meterpreter About ?
+------------------------------
+*
+*
+
+4) What does Meterpreter Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Meterpreter :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Meterpreter :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Meterpreter :
+----------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< Filesystem Commands >>>>>>>>>
+__________________________________________________
+     Filesystem Commands                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Filesystem Commands
+                                                                                        
+2) Definition of Filesystem Commands ?
+--------------------------------------
+*
+ 
+3) What is Filesystem Commands About ?
+--------------------------------------
+*
+*
+
+4) What does Filesystem Commands Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Filesystem Commands :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Filesystem Commands :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Filesystem Commands :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< Methods to Maintain access >>>>>>>>>
+__________________________________________________
+     Methods to Maintain access                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Methods to Maintain access
+                                                                                        
+2) Definition of Methods to Maintain access ?
+---------------------------------------------
+*
+ 
+3) What is Methods to Maintain access About ?
+---------------------------------------------
+*
+*
+
+4) What does Methods to Maintain access Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Methods to Maintain access :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Methods to Maintain access :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Methods to Maintain access :
+-------------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ *** Website Penetration *** :
+     ````````````````````
+  1. What is a Website?
+  2. Attacking a Website
+  3. Information Gathering
+  4. Whois Lookup
+  5. Netcraft
+  6. Robtex
+  7. Discovering Subdomain
+  8. Analysing Discovering Files
+
+     <<<<<<<<< Website Penetration >>>>>>>>>
+__________________________________________________
+      Website Penetration                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Website Penetration
+                                                                                        
+2) Definition of Website Penetration :
+--------------------------------------
+*
+ 
+3) What is Website Penetration About ?
+--------------------------------------
+*
+*
+
+4) What does Website Penetration Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Website Penetration :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Website Penetration :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Website Penetration :
+------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 1. <<<<<<<<< What is a Website? >>>>>>>>>
+__________________________________________________
+      What is a Website?                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What is a Website?
+                                                                                        
+2) Definition of What is a Website?
+-----------------------------------
+*
+ 
+3) What is What is a Website About ?
+------------------------------------
+*
+*
+
+4) What does What is a Website Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of What is a Website? :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of What is a Website? :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of What is a Website?:
+----------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Attacking a Website >>>>>>>>>
+__________________________________________________
+     Attacking a Website                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Attacking a Website
+                                                                                        
+2) Definition of Attacking a Website ?
+--------------------------------------
+*
+ 
+3) What is Attacking a Website About ?
+--------------------------------------
+*
+*
+
+4) What does Attacking a Website Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Attacking a Website :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Attacking a Website :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Attacking a Website :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< Information Gathering >>>>>>>>>
+__________________________________________________
+     Information Gathering                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Information Gathering
+                                                                                        
+2) Definition of Information Gathering ?
+----------------------------------------
+*
+ 
+3) What is Information Gathering About ?
+----------------------------------------
+*
+*
+
+4) What does Information Gathering Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Information Gathering :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Information Gathering :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Information Gathering :
+--------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< Whois Lookup >>>>>>>>>
+__________________________________________________
+     Whois Lookup                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Whois Lookup
+                                                                                        
+2) Definition of Whois Lookup ?
+-------------------------------
+*
+ 
+3) What is Whois Lookup About ?
+-------------------------------
+*
+*
+
+4) What does Whois Lookup Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Whois Lookup :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Whois Lookup :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Whois Lookup :
+-----------------------------
+*
+*
+_______________________________________________________________________________
+
+ 5. <<<<<<<<< Netcraft >>>>>>>>>
+__________________________________________________
+     Netcraft                                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Netcraft
+                                                                                        
+2) Definition of Netcraft ?
+---------------------------
+*
+ 
+3) What is Netcraft About ?
+---------------------------
+*
+*
+
+4) What does Netcraft Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Netcraft :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Netcraft :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Netcraft :
+-------------------------
+*
+*
+_______________________________________________________________________
+
+ 6. <<<<<<<<< Robtex >>>>>>>>>
+__________________________________________________
+      Robtex                                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Robtex
+                                                                                        
+2) Definition of Robtex ?
+-------------------------
+*
+ 
+3) What is Robtex About ?
+-------------------------
+*
+*
+
+4) What does Robtex Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of Robtex :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Robtex :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of Robtex :
+-----------------------
+*
+*
+_______________________________________________________________________________
+
+ 7. <<<<<<<<< Discovering Subdomain >>>>>>>>>
+__________________________________________________
+     Discovering Subdomain                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Discovering Subdomain
+                                                                                        
+2) Definition of Discovering Subdomain ?
+----------------------------------------
+*
+ 
+3) What is Discovering Subdomain About ?
+----------------------------------------
+*
+*
+
+4) What does Discovering Subdomain Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Discovering Subdomain :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Discovering Subdomain :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Discovering Subdomain :
+--------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 8. <<<<<<<<< Analysing Discovering Files >>>>>>>>>
+__________________________________________________
+    Analysing Discovering Files                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Analysing Discovering Files
+                                                                                        
+2) Definition of Analysing Discovering Files ?
+----------------------------------------------
+*
+ 
+3) What is Analysing Discovering Files About ?
+----------------------------------------------
+*
+*
+
+4) What does Analysing Discovering Files Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Analysing Discovering Files :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Analysing Discovering Files :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Analysing Discovering Files :
+--------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ *** Misc *** :
+     ````
+  1. What Problem Hacking Identify
+  2. Hacking Process
+  3. Importance of Ethical hacking
+  4. Miscellaneous Hackers
+  5. Clients and Servers
+  6. Password Cracking
+  7. Penetration testing
+  8. Routers and Firewall
+  9. Vulnerability Assessment vs Penetration Testing
+ 10. Cross-site Scripting
+ 11. Defend against Password Cracking
+ 12. Magecart attack
+ 13. Nexpose
+ 14. Post Exploitation Concept
+ 15. Website vs Webpage
+ 16. Meterpreter
+ 17. MITM Attack Progression
+ 18. Prevention of MITM Attack
+ 19. Usages and Tips
+ 20. Simple WEP Crack
+ 21. Methods of attacking DNS spoofing attack
+ 22. Metasploit commands
+ 23. Metasploit Interface
+ 24. How to prevent DNS cache poisoning and spoofing
+ 25. Risk of DNS spoofing and Poisoning
+ 26. Basic Msfconsole commands
+ 27. Configuring event payloads
+ 28. Examples of Payload targeting
+ 29. History of Handshake
+ 30. What is Listening Port
+ 31. What is Robtex used for
+ 32. Subdomain Discovery
+ 33. Subdomain scanner tools
+ 34. Handshaking Lemma
+ 35. How to build a website
+ 36. Nmap
+ 37. Nmap vs Metasploit
+ 38. Virtual Box
+
+ 1. <<<<<<<<< What Problem Hacking Identify >>>>>>>>>
+__________________________________________________
+       What Problem Hacking Identify              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What Problem Hacking Identify
+                                                                                        
+2) Definition of What Problem Hacking Identify ?
+------------------------------------------------
+*
+ 
+3) What is What Problem Hacking Identify About ?
+------------------------------------------------
+*
+*
+
+4) What does What Problem Hacking Identify Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of What Problem Hacking Identify :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of What Problem Hacking Identify :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of What Problem Hacking Identify :
+----------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Hacking Process >>>>>>>>>
+__________________________________________________
+    Hacking Process                               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Hacking Process
+                                                                                        
+2) Definition of Hacking Process ?
+----------------------------------
+*
+ 
+3) What is Hacking Process About ?
+----------------------------------
+*
+*
+
+4) What does Hacking Process Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Hacking Process :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Hacking Process :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Hacking Process :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< Importance of Ethical hacking >>>>>>>>>
+__________________________________________________
+     Importance of Ethical hacking                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Importance of Ethical hacking
+                                                                                        
+2) Definition of Importance of Ethical hacking ?
+------------------------------------------------
+*
+ 
+3) What is Importance of Ethical hacking About ?
+------------------------------------------------
+*
+*
+
+4) What does Importance of Ethical hacking Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Importance of Ethical hacking :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Importance of Ethical hacking :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Importance of Ethical hacking :
+----------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< Miscellaneous Hackers >>>>>>>>>
+__________________________________________________
+     Miscellaneous Hackers                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Miscellaneous Hackers
+                                                                                        
+2) Definition of Miscellaneous Hackers ?
+----------------------------------------
+*
+ 
+3) What is Miscellaneous Hackers About ?
+----------------------------------------
+*
+*
+
+4) What does Miscellaneous Hackers Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Miscellaneous Hackers :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Miscellaneous Hackers :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Miscellaneous Hackers :
+--------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 5. <<<<<<<<< Clients and Servers >>>>>>>>>
+__________________________________________________
+      Clients and Servers                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Clients and Servers
+                                                                                        
+2) Definition of Clients and Servers ?
+--------------------------------------
+*
+ 
+3) What is Clients and Servers About ?
+--------------------------------------
+*
+*
+
+4) What does Clients and Servers Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Clients and Servers :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Clients and Servers :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Clients and Servers :
+------------------------------------
+*
+*
+_______________________________________________________________________
+
+ 6. <<<<<<<<< Password Cracking >>>>>>>>>
+__________________________________________________
+    Password Cracking                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Password Cracking
+                                                                                        
+2) Definition of Password Cracking ?
+------------------------------------
+*
+ 
+3) What is Password Cracking About ?
+------------------------------------
+*
+*
+
+4) What does Password Cracking Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Password Cracking :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Password Cracking :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Password Cracking :
+----------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 7. <<<<<<<<< Penetration testing >>>>>>>>>
+__________________________________________________
+    Penetration testing                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Penetration testing
+                                                                                        
+2) Definition of Penetration testing ?
+--------------------------------------
+*
+ 
+3) What is Penetration testing About ?
+--------------------------------------
+*
+*
+
+4) What does Penetration testing Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Penetration testing :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Penetration testing :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Penetration testing :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 8. <<<<<<<<< Routers and Firewall >>>>>>>>>
+__________________________________________________
+     Routers and Firewall                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Routers and Firewall
+                                                                                        
+2) Definition of Routers and Firewall ?
+---------------------------------------
+*
+ 
+3) What is Routers and Firewall About ?
+---------------------------------------
+*
+*
+
+4) What does Routers and Firewall Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Routers and Firewall :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Routers and Firewall :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Routers and Firewall :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 9. <<<<<<<<< Vulnerability Assessment vs Penetration Testing >>>>>>>>>
+_____________________________________________________
+    Vulnerability Assessment vs Penetration Testing  |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Vulnerability Assessment vs Penetration Testing
+                                                                                        
+2) Definition of Vulnerability Assessment vs Penetration Testing ?
+------------------------------------------------------------------
+*
+ 
+3) What is Vulnerability Assessment vs Penetration Testing About ?
+------------------------------------------------------------------
+*
+*
+
+4) What does Vulnerability Assessment vs Penetration Testing Do ?
+-----------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Vulnerability Assessment vs Penetration Testing :
+---------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Vulnerability Assessment vs Penetration Testing :
+------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Vulnerability Assessment vs Penetration Testing :
+----------------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 10. <<<<<<<<< Cross-site Scripting >>>>>>>>>
+__________________________________________________
+     Cross-site Scripting                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Cross-site Scripting
+                                                                                        
+2) Definition of Cross-site Scripting long ?
+--------------------------------------------
+*
+ 
+3) What is Cross-site Scripting About ?
+---------------------------------------
+*
+*
+
+4) What does Cross-site Scripting Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Cross-site Scripting :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Cross-site Scripting :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Cross-site Scripting :
+-------------------------------------
+*
+*
+_______________________________________________________________________
+        
+ 11. <<<<<<<<< Defend against Password Cracking >>>>>>>>>
+__________________________________________________
+       Defend against Password Cracking           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Defend against Password Cracking
+                                                                                        
+2) Definition of Defend against Password Cracking ?
+---------------------------------------------------
+*
+ 
+3) What is Defend against Password Cracking About ?
+---------------------------------------------------
+*
+*
+
+4) What does Defend against Password Cracking Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Defend against Password Cracking :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Defend against Password Cracking :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Defend against Password Cracking :
+-------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 12. <<<<<<<<< Magecart attack >>>>>>>>>
+__________________________________________________
+     Magecart attack                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Magecart attack
+                                                                                        
+2) Definition of Magecart attack ?
+----------------------------------
+*
+ 
+3) What is Magecart attack About ?
+----------------------------------
+*
+*
+
+4) What does Magecart attack Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Magecart attack :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Magecart attack :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Magecart attack :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 13. <<<<<<<<< Nexpose >>>>>>>>>
+__________________________________________________
+     Nexpose                                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Nexpose
+                                                                                        
+2) Definition of Nexpose ?
+--------------------------
+*
+ 
+3) What is Nexpose About ?
+--------------------------
+*
+*
+
+4) What does Nexpose Do ?
+-------------------------
+*
+*
+
+5) Advantages/Benefits of Nexpose :
+-----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Nexpose :
+--------------------------------------
+*
+*
+*  
+
+7) Examples of Nexpose :
+------------------------
+*
+*
+_______________________________________________________________________________
+
+ 14. <<<<<<<<< Post Exploitation Concept >>>>>>>>>
+__________________________________________________
+     Post Exploitation Concept                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Post Exploitation Concept
+                                                                                        
+2) Definition of Post Exploitation Concept ?
+--------------------------------------------
+*
+ 
+3) What is Post Exploitation Concept About ?
+--------------------------------------------
+*
+*
+
+4) What does Post Exploitation Concept Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Post Exploitation Concept :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Post Exploitation Concept :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Post Exploitation Concept :
+------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 15. <<<<<<<<< Website vs Webpage >>>>>>>>>
+__________________________________________________
+      Website vs Webpage                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Website vs Webpage
+                                                                                        
+2) Definition of Website vs Webpage ?
+-------------------------------------
+*
+ 
+3) What is Website vs Webpage About ?
+-------------------------------------
+*
+*
+
+4) What does Website vs Webpage Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Website vs Webpage :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Website vs Webpage :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Website vs Webpage :
+-----------------------------------
+*
+*
+_______________________________________________________________________
+
+ 16. <<<<<<<<< Meterpreter >>>>>>>>>
+__________________________________________________
+      Meterpreter                                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Meterpreter
+                                                                                        
+2) Definition of Meterpreter ?
+------------------------------
+*
+ 
+3) What is Meterpreter About ?
+------------------------------
+*
+*
+
+4) What does Meterpreter Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Meterpreter :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Meterpreter :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Meterpreter :
+----------------------------
+*
+*
+_______________________________________________________________________________
+
+ 17. <<<<<<<<< MITM Attack Progression >>>>>>>>>
+__________________________________________________
+     MITM Attack Progression                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* MITM Attack Progression
+                                                                                        
+2) Definition of MITM Attack Progression ?
+------------------------------------------
+*
+ 
+3) What is MITM Attack Progression About ?
+------------------------------------------
+*
+*
+
+4) What does MITM Attack Progression Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of MITM Attack Progression :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of MITM Attack Progression :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of MITM Attack Progression :
+----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 18. <<<<<<<<< Prevention of MITM Attack >>>>>>>>>
+__________________________________________________
+     Prevention of MITM Attack                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Prevention of MITM Attack
+                                                                                        
+2) Definition of Prevention of MITM Attack ?
+--------------------------------------------
+*
+ 
+3) What is Prevention of MITM Attack About ?
+--------------------------------------------
+*
+*
+
+4) What does Prevention of MITM Attack Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Prevention of MITM Attack :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Prevention of MITM Attack :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Prevention of MITM Attack :
+------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 19. <<<<<<<<< Usages and Tips >>>>>>>>>
+__________________________________________________
+     Usages and Tips                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Usages and Tips
+                                                                                        
+2) Definition of Usages and Tips ?
+----------------------------------
+*
+ 
+3) What is Usages and Tips About ?
+----------------------------------
+*
+*
+
+4) What does Usages and Tips Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Usages and Tips :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Usages and Tips :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Usages and Tips :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 20. <<<<<<<<< Simple WEP Crack >>>>>>>>>
+__________________________________________________
+      Simple WEP Crack                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Simple WEP Crack
+                                                                                        
+2) Definition of Simple WEP Crack ?
+-----------------------------------
+*
+ 
+3) What is Simple WEP Crack About ?
+-----------------------------------
+*
+*
+
+4) What does Simple WEP Crack Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Simple WEP Crack :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Simple WEP Crack :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Simple WEP Crack :
+---------------------------------
+*
+*
+_______________________________________________________________________
+
+ 21. <<<<<<<<< Methods of attacking DNS spoofing attack >>>>>>>>>
+__________________________________________________
+      Methods of attacking DNS spoofing attack    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Methods of attacking DNS spoofing attack
+                                                                                        
+2) Definition of Methods of attacking DNS spoofing attack ?
+-----------------------------------------------------------
+*
+ 
+3) What is Methods of attacking DNS spoofing attack About ?
+-----------------------------------------------------------
+*
+*
+
+4) What does Methods of attacking DNS spoofing attack Do ?
+----------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Methods of attacking DNS spoofing attack :
+--------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Methods of attacking DNS spoofing attack :
+-----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Methods of attacking DNS spoofing attack :
+---------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 22. <<<<<<<<< Metasploit commands >>>>>>>>>
+__________________________________________________
+     Metasploit commands                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Metasploit commands
+                                                                                        
+2) Definition of Metasploit commands ?
+--------------------------------------
+*
+ 
+3) What is Metasploit commands ?
+--------------------------------
+*
+*
+
+4) What does Metasploit commands Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Metasploit commands :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Metasploit commands :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Metasploit commands :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 23. <<<<<<<<< Metasploit Interface >>>>>>>>>
+__________________________________________________
+    Metasploit Interface                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Metasploit Interface
+                                                                                        
+2) Definition of Metasploit Interface ?
+---------------------------------------
+*
+ 
+3) What is Metasploit Interface About ?
+---------------------------------------
+*
+*
+
+4) What does Metasploit Interface Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Metasploit Interface :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Metasploit Interface :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Metasploit Interface :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 24. <<<<<<<<< How to prevent DNS cache poisoning and spoofing >>>>>>>>>
+______________________________________________________
+     How to prevent DNS cache poisoning and spoofing  |
+                                                      |                  
+______________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* How to prevent DNS cache poisoning and spoofing
+                                                                                        
+2) Definition of How to prevent DNS cache poisoning and spoofing ?
+------------------------------------------------------------------
+*
+ 
+3) What is How to prevent DNS cache poisoning and spoofing About ?
+------------------------------------------------------------------
+*
+*
+
+4) What does How to prevent DNS cache poisoning and spoofing Do ?
+-----------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of How to prevent DNS cache poisoning and spoofing :
+---------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of How to prevent DNS cache poisoning and spoofing :
+------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of How to prevent DNS cache poisoning and spoofing :
+----------------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 25. <<<<<<<<< Risk of DNS spoofing and Poisoning >>>>>>>>>
+__________________________________________________
+      Risk of DNS spoofing and Poisoning          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Risk of DNS spoofing and Poisoning
+                                                                                        
+2) Definition of Risk of DNS spoofing and Poisoning ?
+-----------------------------------------------------
+*
+ 
+3) What is Risk of DNS spoofing and Poisoning About ?
+-----------------------------------------------------
+*
+*
+
+4) What does Risk of DNS spoofing and Poisoning Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Risk of DNS spoofing and Poisoning :
+--------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Risk of DNS spoofing and Poisoning :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Risk of DNS spoofing and Poisoning :
+---------------------------------------------------
+*
+*
+_______________________________________________________________________
+        
+ 26. <<<<<<<<< Basic Msfconsole commands >>>>>>>>>
+__________________________________________________
+       Basic Msfconsole commands                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Basic Msfconsole commands
+                                                                                        
+2) Definition of Basic Msfconsole commands ?
+--------------------------------------------
+*
+ 
+3) What is Basic Msfconsole commands About ?
+--------------------------------------------
+*
+*
+
+4) What does Basic Msfconsole commands Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Basic Msfconsole commands :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Basic Msfconsole commands :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Basic Msfconsole commands :
+------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 27. <<<<<<<<< Configuring event payloads >>>>>>>>>
+__________________________________________________
+     Configuring event payloads                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Configuring event payloads
+                                                                                        
+2) Definition of Configuring event payloads ?
+---------------------------------------------
+*
+ 
+3) What is Configuring event payloads About ?
+---------------------------------------------
+*
+*
+
+4) What does Configuring event payloads Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Configuring event payloads :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Configuring event payloads :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Configuring event payloads :
+-------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 28. <<<<<<<<< Examples of Payload targeting >>>>>>>>>
+__________________________________________________
+     Examples of Payload targeting                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Examples of Payload targeting
+                                                                                        
+2) Definition of Examples of Payload targeting ?
+------------------------------------------------
+*
+ 
+3) What is Examples of Payload targeting About ?
+------------------------------------------------
+*
+*
+
+4) What does Examples of Payload targeting Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Examples of Payload targeting :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Examples of Payload targeting :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Examples of Payload targeting :
+----------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 29. <<<<<<<<< History of Handshake >>>>>>>>>
+__________________________________________________
+     History of Handshake                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* History of Handshake
+                                                                                        
+2) Definition of History of Handshake ?
+---------------------------------------
+*
+ 
+3) What is History of Handshake About ?
+---------------------------------------
+*
+*
+
+4) What does History of Handshake Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of History of Handshake :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of History of Handshake :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of History of Handshake :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 30. <<<<<<<<< What is Listening Port >>>>>>>>>
+__________________________________________________
+      What is Listening Port                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What is Listening Port
+                                                                                        
+2) Definition of What is Listening Port ?
+-----------------------------------------
+*
+ 
+3) What is What is Listening Port About ?
+-----------------------------------------
+*
+*
+
+4) What does What is Listening Port Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of What is Listening Port :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of What is Listening Port :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of What is Listening Port :
+---------------------------------------
+*
+*
+_______________________________________________________________________
+        
+ 31. <<<<<<<<< What is Robtex used for >>>>>>>>>
+__________________________________________________
+     What is Robtex used for                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What is Robtex used for
+                                                                                        
+2) Definition of What is Robtex used for ?
+------------------------------------------
+*
+ 
+3) What is What is Robtex used for About ?
+------------------------------------------
+*
+*
+
+4) What does What is Robtex used for Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of What is Robtex used for :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of What is Robtex used for :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of What is Robtex used for :
+----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 32. <<<<<<<<< Subdomain Discovery >>>>>>>>>
+__________________________________________________
+      Subdomain Discovery                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Subdomain Discovery
+                                                                                        
+2) Definition of Subdomain Discovery ?
+--------------------------------------
+*
+ 
+3) What is Subdomain Discovery About ?
+--------------------------------------
+*
+*
+
+4) What does Subdomain Discovery Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Subdomain Discovery :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Subdomain Discovery :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Subdomain Discovery :
+------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 33. <<<<<<<<< Subdomain scanner tools >>>>>>>>>
+__________________________________________________
+     Subdomain scanner tools                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Subdomain scanner tools
+                                                                                        
+2) Definition of Subdomain scanner tools ?
+------------------------------------------
+*
+ 
+3) What is Subdomain scanner tools About ?
+------------------------------------------
+*
+*
+
+4) What does Subdomain scanner tools Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Subdomain scanner tools :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Subdomain scanner tools :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Subdomain scanner tools :
+----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 34. <<<<<<<<< Handshaking Lemma >>>>>>>>>
+__________________________________________________
+     Handshaking Lemma                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Handshaking Lemma
+                                                                                        
+2) Definition of Handshaking Lemma ?
+------------------------------------
+*
+ 
+3) What is Handshaking Lemma About ?
+------------------------------------
+*
+*
+
+4) What does Handshaking Lemma Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Handshaking Lemma :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Handshaking Lemma :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Handshaking Lemma :
+----------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 35. <<<<<<<<< How to build a website >>>>>>>>>
+__________________________________________________
+      How to build a website                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* How to build a website
+                                                                                        
+2) Definition of How to build a website ?
+-----------------------------------------
+*
+ 
+3) What is How to build a website About ?
+-----------------------------------------
+*
+*
+
+4) What does How to build a website Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of How to build a website :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of How to build a website :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of How to build a website :
+---------------------------------------
+*
+*
+_______________________________________________________________________
+
+ 36. <<<<<<<<< Nmap >>>>>>>>>
+__________________________________________________
+       Nmap                                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Nmap
+                                                                                        
+2) Definition of Nmap ?
+-----------------------
+*
+ 
+3) What is Nmap About ?
+-----------------------
+*
+*
+
+4) What does Nmap Do ?
+----------------------
+*
+*
+
+5) Advantages/Benefits of Nmap :
+--------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Nmap :
+-----------------------------------
+*
+*
+*  
+
+7) Examples of Nmap :
+---------------------
+*
+*
+_______________________________________________________________________________
+
+ 37. <<<<<<<<< Nmap vs Metasploit >>>>>>>>>
+__________________________________________________
+     Nmap vs Metasploit                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Nmap vs Metasploit
+                                                                                        
+2) Definition of Nmap vs Metasploit ?
+-------------------------------------
+*
+ 
+3) What is Nmap vs Metasploit About ?
+-------------------------------------
+*
+*
+
+4) What does Nmap vs Metasploit Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Nmap vs Metasploit :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Nmap vs Metasploit :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Nmap vs Metasploit :
+-----------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 38. <<<<<<<<< Virtual Box >>>>>>>>>
+__________________________________________________
+     Virtual Box                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Virtual Box
+                                                                                        
+2) Definition of Virtual Box ?
+------------------------------
+*
+ 
+3) What is Virtual Box About ?
+------------------------------
+*
+*
+
+4) What does Virtual Box Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Virtual Box :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Virtual Box :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Virtual Box :
+----------------------------
+*
+*
+_______________________________________________________________________________
